@@ -31,15 +31,9 @@ cd build-tr
 ```
 
 ## Features
-**Final Output: Displaying Multiple Meshes**
-<div style="text-align: center; display: inline-block;">
-  <img src="output.gif" alt="Multiple Meshes." width="320">
-</div>
-
-**Mini Rasterizer Output: Subpixel Rasterization**
-<div style="text-align: center; display: inline-block;">
-  <img src="output-tr.gif" alt="Subpixel Rasterization." width="320">
-</div>
+| **Final Output: Displaying Multiple Meshes** | **Mini Rasterizer Output: Subpixel Rasterization** |
+|---|---|
+| <div align="center"><img src="output.gif" alt="Multiple Meshes." width="320"></div> | <div align="center"><img src="output-tr.gif" alt="Subpixel Rasterization." width="320"></div> |
 
 **Topics Covered So Far** (latest-first)
 * A Better Triangle Rasterizer, Edge Function, Subpixel Rasterization
